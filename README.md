@@ -22,16 +22,25 @@
 <p align="center">
   <h4> My Skills </h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,py,arduino,raspberrypi,html,css,bootstrap,react,figma,git,linux,replit,vercel,vscode,windows,wordpress" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,arduino,git,replit,vercel,vscode,windows,wordpress" />
   </a>
 </p>
 
 ----
 
-![Stats](https://github-readme-stats.vercel.app/api?username=adiologydev&count_private=true&show_icons=true&theme=dracula)
+<p align="center">
+  <h4> I am learning... </h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,figma,linux" />
+  </a>
+</p>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adiologydev&layout=compact&count_private=true&theme=dracula)
+----
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=adiologydev&theme=highcontrast)](https://git.io/streak-stats)
+![LukasGom3s's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasGom3s&show_icons=true&theme=synthwave)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasGom3s&layout=compact&count_private=true&theme=synthwave)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=LukasGom3s&theme=highcontrast)](https://git.io/streak-stats)
   
 </div>
