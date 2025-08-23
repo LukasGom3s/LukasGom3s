@@ -11,9 +11,9 @@
 
 📫 Let's get social on [Instagram](https://instagram.com/luk4s_gom3s), and [Twitter](https://twitter.com/LukasGom3s)
 
-🎵 I also make music! Check it out [Spotify](https://open.spotify.com/artist/3MKIyx6JG4TwZNSHnmNyMm), [Apple Music](https://music.apple.com/us/artist/aditya-tripathi/1504395195) and [YouTube](https://youtube.com/AdityaTD)
+🤖 I am also an Electronics Technician and I do personal projects with Arduino.
 
-🖇️ Also visit my [Linkedin](https://www.linkedin.com/in/lucasgomesesteves) profile
+🖇️ Also visit my [Linkedin](https://www.linkedin.com/in/lucasgomesesteves) profile.
 
 ⚡ Fun fact! I have poetic flashes and write some poems.
 
