@@ -31,7 +31,7 @@
 <p align="center">
   <h4> I am learning... </h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,figma,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,figma,linux,raspberrypi" />
   </a>
 </p>
 
