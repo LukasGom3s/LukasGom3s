@@ -20,13 +20,10 @@
 ----
 
 <p align="center">
-  
-![My Skills]
-<p align="center">
+  <h4> My Skills </h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,py,arduino,raspberrypi,html,css,bootstrap,react,figma,git,linux,replit,vercel,vscode,windows,wordpress" />
   </a>
-</p>
 </p>
 
 ----
