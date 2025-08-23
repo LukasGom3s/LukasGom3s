@@ -21,7 +21,12 @@
 
 <p align="center">
   
-![My Skills](https://skillicons.dev/icons?i=ae,alpinejs,androidstudio,astro,atom,aws,bash,bootstrap,cassandra,cloudflare,codepen,css,deno,devto,discord,docker,eclipse,electron,express,figma,firebase,gcp,git,github,githubactions,gitlab,go,grafana,graphql,heroku,html,idea,ai,instagram,ipfs,java,js,jenkins,jest,jquery,kafka,kotlin,kubernetes,laravel,linkedin,linux,md,mongodb,mysql,nestjs,nextjs,netlify,nginx,nodejs,nuxtjs,ps,php,planetscale,postgres,postman,powershell,pr,prometheus,rabbitmq,react,redis,regex,sass,sqlite,stackoverflow,supabase,sentry,solidity,svelte,svg,tailwind,tauri,threejs,twitter,ts,unreal,vercel,visualstudio,vite,vscode,vue,webpack,wordpress,workers,xd&theme=light)
+![My Skills]
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,py,arduino,raspberrypi,html,css,bootstrap,react,figma,git,linux,replit,vercel,vscode,windows,wordpress" />
+  </a>
+</p>
 </p>
 
 ----
