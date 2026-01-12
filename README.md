@@ -36,11 +36,6 @@
 </p>
 
 ----
-
-![LukasGom3s's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasGom3s&show_icons=true&theme=synthwave)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasGom3s&layout=compact&count_private=true&theme=synthwave)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=LukasGom3s&theme=highcontrast)](https://git.io/streak-stats)
   
 </div>
