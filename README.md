@@ -1,20 +1,16 @@
 -----
-
 <div>
 <img align="center" alt="Header" src="https://github.com/LukasGom3s/LukasGom3s/blob/main/img/Imagem%20Banner%20Galaxia%20Rosa.jpg"/>
 </div>
-
 -----
 ![Header](https://github.com/LukasGom3s/LukasGom3s/blob/main/img/github-header-banner.png)
 -----
-
 <div align="center">
 <table>
 <tr>
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<!--<td><a href="https://replit.com/@aramuni"><img src="https://joaopauloaramuni.github.io/image/replit3.svg?raw=true" width="50px" height="50px"/></a>-->
 <td><a href="https://aramuni.dev/"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://github.com/LukasGom3s" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
@@ -34,6 +30,11 @@
  <td align="center" colspan="11"></td>
 </tr> 
 </table>
+</div>
+-----
+
+<div align="justify">
+<i><b>Olá</b> :wave:, sou o <strong>Lucas</strong>, tenho 21 anos, moro em BH e sou apaixonado por tecnologia desde dos 9 anos. Atualmente sou <strong>estudante</strong> do curso de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, e <strong>estagiário TechOps</strong> da <a href="zurich.com.br" target="_black">Zurich</a>.</i> :man_teacher: Confira meu portfólio: <a href="https://lukasgom3s.dev/">lukasgom3s.dev</a>
 </div>
 
 -----
