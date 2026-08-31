@@ -1,9 +1,13 @@
 -----
+
 <div>
 <img align="center" alt="Header" src="https://github.com/LukasGom3s/LukasGom3s/blob/main/img/Imagem%20Banner%20Galaxia%20Rosa.jpg"/>
 </div>
+
 -----
+
 ![Header](https://github.com/LukasGom3s/LukasGom3s/blob/main/img/github-header-banner.png)
+
 -----
 <div align="center">
 <table>
