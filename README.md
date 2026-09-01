@@ -9,6 +9,7 @@
 ![Header](https://github.com/LukasGom3s/LukasGom3s/blob/main/img/github-header-banner.png)
 
 -----
+
 <div align="center">
 <table>
 <tr>
@@ -35,6 +36,7 @@
 </tr> 
 </table>
 </div>
+
 -----
 
 <div align="justify">
@@ -42,14 +44,65 @@
 </div>
 
 -----
+
 <table>
 <tr>
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@ab89d31b-ff2b-45d7-98dc-c03c4de20736">WakaTime</a></td>
 </tr> 
 <tr>
-<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=ab89d31b-ff2b-45d7-98dc-c03c4de20736&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="466" loading="lazy"/></td>
+<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=@ab89d31b-ff2b-45d7-98dc-c03c4de20736&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="466" loading="lazy"/></td>
 <td>
-<img src="https://helio-github-stats.vercel.app/api/wakatime?username=ab89d31b-ff2b-45d7-98dc-c03c4de20736&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="466" loading="lazy"/>
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=@ab89d31b-ff2b-45d7-98dc-c03c4de20736&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="466" loading="lazy"/>
 </td>
 </tr>
 </table>
+
+-----
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> <strong>Sobre mim:</strong>
+
+<div align="justify">
+Sou estudante de <a href="https://www.pucminas.br/campus/coracao-eucaristico/ensino/graduacao/Paginas/Engenharia-de-Software.aspx" target="_blank">Engenharia de Software</a> pela <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> (2026-2030) e passei pelo curso de <a href="https://dcc.ufmg.br/" target="_blank">Ciência da Computação</a> na <a href="https://ufmg.br/" target="_blank">Universidade Federal de Minas Gerais - UFMG</a> (2024-2025). Sou Técnico em Eletrônica pelo <a href="https://www.cefetmg.br/" target="_blank">Centro Federal de Educação Tecnológica de Minas Gerais - CEFET-MG</a> (2020-2023). Atualmente, atuo como Estagiário TechOps na <a href="https://www.zurich.com.br/" target="_blank">Zurich Insurance Company Ltd</a>, focado na expansão de habilidades para o desenvolvimento web e soluções práticas de tecnologia. Tenho forte vivência no ecossistema de educação tecnológica, tendo atuado como Professor de Robótica e Programação na <a href="https://supergeeks.com.br/" target="_blank">SuperGeeks</a> (2024-2025), onde lecionei linguagens como C, <a href="https://www.python.org/" target="_blank">Python</a>, <a href="https://cplusplus.com/" target="_blank">C++</a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">HTML</a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">CSS</a> e <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">JavaScript</a>, simplificando tópicos complexos de hardware e software para crianças e adolescentes por meio do uso de Arduinos e componentes eletrônicos. Anteriormente, fui Estagiário Técnico no Setor de Operações da <a href="https://biomtech.com.br/" target="_blank">Biomtech Brasil</a>, atuando na manutenção, diagnóstico e testes de qualidade da interface web do sistema FaceSchool e em equipamentos de reconhecimento facial. Durante minha formação no CEFET-MG, fui membro ativo do Projeto de Extensão Rolê Maker (2023), responsável pela criação de oficinas tecnológicas, manutenção de impressoras 3D e desenvolvimento de projetos com microcontroladores para a comunidade escolar.
+</div>
+
+-----
+
+<div>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Meus interesses pessoais:
+
+<table width="100%">
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td width="75%" >
+<div align="justify">
+<p> 
+- 💼 Atualmente, atuo como <code>Estagiário TechOps</code> na <a href="https://www.zurich.com.br/" target="_blank">Zurich Insurance Company</a>.<br />
+- 👨‍🏫 Fui <code>Professor de Robótica e Programação</code> na <a href="https://supergeeks.com.br/" target="_blank">SuperGeeks</a>.<br />
+- 🤖 Adoro a cultura maker! Durante o Projeto de Extensão Rolê Maker no <a href="https://www.cefetmg.br/" target="_blank">CEFET-MG</a>, desenvolvia projetinhos de robôs autorais.<br />
+- ⚡ Sou muito fã de Pokémon. Em certa época da minha vida, eu sabia o nome de quase todos os mil monstrinhos!<br />
+- 🎮 Gosto muito de Valorant, tanto para jogar quanto para acompanhar o cenário competitivo.<br />
+- 🎸 Meus hobbies não tecnológicos incluem tocar guitarra, me aventurar na fotografia e escrever alguns poemas.<br />
+- 📺 Meu anime/série favorito é <a href="https://www.imdb.com/title/tt0284898/" target="_blank">Fullmetal Alchemist</a>.<br />
+- ⚽ Sou atleticano, torço para o Galo. 🐓<br />
+- 🩷 Minha cor preferida é rosa.<br />
+- 📬 Para me encontrar, este é meu <a href="mailto:lucasgomescefetmg@gmail.com" target="_blank">e-mail</a> e aqui está o meu <a href="https://www.linkedin.com/in/lucasgomesesteves" target="_blank">LinkedIn</a>.
+</p>
+</div>
+</td>
+<td align="center" width="25%">
+<div>
+<img alt="Edward Elric" src="https://tenor.com/pt-BR/view/edward-elric-fma-fmab-fma2003-fullmetal-alchemist-gif-15853392759512343648" width="180px" style="border-radius: 10px;" />
+</div>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+
+</div>
+
+------
