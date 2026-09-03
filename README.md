@@ -144,7 +144,29 @@ Sou estudante de <a href="https://www.pucminas.br/campus/coracao-eucaristico/ens
 
 </div>
 
-------
+----- 
+
+<div>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> <strong>Projetos que mais me orgulho:</strong>
+ <br>
+<table>
+ <tr>
+ <td align="center">Legends Pokedex</td>
+ <td align="center">FlyUFMG</td>
+</tr>
+<tr>
+ <td align="center"><img src="https://github.com/LukasGom3s/LukasGom3s/blob/main/img/LogoLegendsPokedex.png" alt="Logo Legends Pokedex" width="250" /></td>
+ <td align="center"><img src="https://github.com/LukasGom3s/LukasGom3s/blob/main/img/LogoFlyUFMG.png" alt="Logo Legends FlyUFMG" width="250"/></td>
+</tr>
+<tr>
+ <td align="center"><a href="https://github.com/LukasGom3s/Legends-Pokedex" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/pin?username=LukasGom3s&repo=Legends-Pokedex&theme=dark&hide_border=true&border_radius=30&card_width=466&show_owner=true" alt="Repositório Pin" width="466" height="auto" loading="lazy" /></a></td>
+ <td align="center"><a href="https://github.com/LukasGom3s/FlyUFMG" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/pin?username=LukasGom3s&repo=FlyUFMG&theme=dark&hide_border=true&border_radius=30&card_width=466&show_owner=true" alt="Repositório Pin" width="466" height="auto" loading="lazy" /></a></td>
+</tr>
+</table>
+
+</div>
+
+-----
 
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>GitHub Stats:
 
